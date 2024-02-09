@@ -5,7 +5,7 @@ The purpose of this application is to allow users to create notes and save/modif
 
 ## Usage 
 
-[Link to site]()
+[Link to site](https://note-taker-zach-short-09ff92a0244d.herokuapp.com/)
 
 ## Installation
 

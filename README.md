@@ -9,12 +9,11 @@ The purpose of this application is to allow users to create notes and save/modif
 
 ## Installation
 
-1. **Clone the repository**:
-2. **Navigate into the project directory**:
-3. **Install dependencies**:
-4. **Start the application**:
-
-6. **Open your web browser**:
+1. **Clone the repository**
+2. **Navigate into the project directory**
+3. **Install dependencies**
+4. **Start the application**
+5. **Open your web browser**
 - Navigate to `http://localhost:3000` to access the application.
 
 ### Creating Notes
@@ -27,4 +26,3 @@ The purpose of this application is to allow users to create notes and save/modif
 ## Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
-

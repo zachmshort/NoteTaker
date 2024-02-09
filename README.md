@@ -19,7 +19,7 @@ The purpose of this application is to allow users to create notes and save/modif
 ### Creating Notes
 
 1. **Create a new note**:
-- Click on the "New Note" button.
+- Click on the "Get Started" button.
 - Enter the title and content of your note in the provided fields.
 - Click on the "Save" button to save the note.
 
